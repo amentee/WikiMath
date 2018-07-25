@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<title>
+Page Title
+</title>
+</head>
+<body>
+
+
+<h1 style="font-size:60px;">This is a heading1</h1>
+<h2 style="font-size:50px;">This is heading2</h2>
+<h3 style="font-size:40px;">This is heading3</h3>
+<h4 style="font-size:30px;">This is heading4</h4>
+<h5>This is heading5</h5>
+<h6>This is heading6</h6>
+
+<button>Click me </button>
+
+<ol>
+    <li>Coffee</li>
+    <li>Tea</li>
+    <li>Milk</li>
+
+</ol>
+
+<p title = "I am a tool tip"> This is a paragraph</p>
+<p>This is another paragraph</p>
+
+<a href="https://www.w3schools.com">This is a link</a>
+<img src="joker.jpg" alt="Heath Ledger" width="500" height="500">
+</body>
+</html>	
