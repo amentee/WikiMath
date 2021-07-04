@@ -1,1 +1,23 @@
+#### The list of books provided below can act as an interesting journey into learning mathematics. Please help out and help us finding the soft copies of these books so that one who cannot afford can at least read the soft copies . This is a small project to help and have every kid an equitable access.
 
+- A Hundred Billion Trillion Stars - Seth Fishman and illustrated by Isabel Greenberg
+- Swirl by Swirl (board book): Spirals in Nature - Joyce Sidman and illustrated by Beth Krommes
+- The Boy Who Loved Math: The Improbable Life of Paul Erdos - Deborah Heiligman and illustrated by LeUyen Pham
+- What’s Your Angle, Pythagoras? - Julie Ellis and illustrated by Phyllis Hornung
+- On a Beam of Light: A Story of Albert Einstein - Jennifer Berne and illustrated by Vladimir Radunsky.
+- Triangle - Mac Barnett and illustrated by Jon Klassen
+- Blockhead: The Life of Fibonacci - Joseph D’Agnese and illustrated by John O’ Brien
+- Infinity and Me -  Kate Hosford and illustrated by Gabi Swiatkowska.
+- Pyramid - David Macaulay.
+- The Rabbit Problem -  Emily Gravett.
+- Sir Cumference and the First Round Table (A Math Adventure) - Cindy Neuschwander and illustrated by Wayne Geehan.
+- Wild Fibonacci: Nature’s Secret Code Revealed - Joy N. Hulme and illustrated by Carol Schwartz.
+- Nothing Stopped Sophie: The Story of Unshakable Mathematician Sophie Germain - Cheryl Bardoe and illustrated by Barbara McClintock.
+- The Girl With a Mind for Math: The Story of Raye Montague - Julia Finley Mosca and illustrated by Daniel Rieley.
+- Grace Hopper: Queen of Computer Code
+- Fractions in Disguise: A Math Adventure written by Edward Einhorn and illustrated by David Clark.
+- Ada Byron Lovelace & the Thinking Machine
+- The Girl Who Thought in Pictures: The Story of Dr. Temple Grandin
+- Hidden Figures: The True Story of Four Black Women and the Space Race
+- The Number Devil: A Mathematical Adventure
+- Math Curse
