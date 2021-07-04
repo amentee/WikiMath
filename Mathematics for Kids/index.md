@@ -1,7 +1,7 @@
 #### The list of books provided below can act as an interesting journey into learning mathematics. Please help out and help us finding the soft copies of these books so that one who cannot afford can at least read the soft copies . This is a small project to help and have every kid an equitable access.
 
 - #### [DREME MATH PICTURE BOOKS](https://dreme.stanford.edu/sites/g/files/sbiybj9961/f/math_picture_books_full_list.pdf)
-- #### [Top Rated Math Picture Books] (https://medium.com/however-mathematics/54-top-rated-educational-math-books-for-children-e9eedb42ef74)
+- #### [Top Rated Math Picture Books](https://medium.com/however-mathematics/54-top-rated-educational-math-books-for-children-e9eedb42ef74)
 - A Hundred Billion Trillion Stars - Seth Fishman and illustrated by Isabel Greenberg
 - Swirl by Swirl (board book): Spirals in Nature - Joyce Sidman and illustrated by Beth Krommes
 - The Boy Who Loved Math: The Improbable Life of Paul Erdos - Deborah Heiligman and illustrated by LeUyen Pham
